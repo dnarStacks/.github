@@ -30,4 +30,4 @@ There will be a API available publicly for developers around the world to use ou
 
 ### Feedback
 
-We would love to hear your feedback over dnarStacks vision. Please feel free to open [issue](https://github.com/enochpromo/dnarStacks/issues) for what you have in your mind.
+We would love to hear your feedback over dnarStacks vision. Please feel free to open [issue](https://github.com/dnarStacks/.github/issues) for what you have in your mind.
